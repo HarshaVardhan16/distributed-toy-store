@@ -1,0 +1,120 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.5)
+
+2024-05-06T01:11:53.288-04:00  INFO 1058364 --- [client] [           main] com.toystore.client.Client               : Starting Client v0.0.1-SNAPSHOT using Java 17.0.10 with PID 1058364 (/home/harsharajanala/Desktop/UMassCourseStuff/COMPSCI677/spring24-lab3-spring24-lab3-hrajanala/client/target/client-0.0.1-SNAPSHOT.jar started by harsharajanala in /home/harsharajanala/Desktop/UMassCourseStuff/COMPSCI677/spring24-lab3-spring24-lab3-hrajanala/client)
+2024-05-06T01:11:53.297-04:00  INFO 1058364 --- [client] [           main] com.toystore.client.Client               : No active profile set, falling back to 1 default profile: "default"
+2024-05-06T01:11:56.415-04:00  INFO 1058364 --- [client] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 12354 (http)
+2024-05-06T01:11:56.434-04:00  INFO 1058364 --- [client] [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-06T01:11:56.435-04:00  INFO 1058364 --- [client] [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-06T01:11:56.514-04:00  INFO 1058364 --- [client] [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-06T01:11:56.516-04:00  INFO 1058364 --- [client] [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2987 ms
+2024-05-06T01:11:57.927-04:00  INFO 1058364 --- [client] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 12354 (http) with context path ''
+2024-05-06T01:11:57.957-04:00  INFO 1058364 --- [client] [           main] com.toystore.client.Client               : Started Client in 6.082 seconds (process running for 7.161)
+Query Latency: 241ms
+Query Latency: 36ms
+Query Latency: 35ms
+Query Latency: 35ms
+Query Latency: 34ms
+Query Latency: 40ms
+Query Latency: 31ms
+Query Latency: 29ms
+Query Latency: 32ms
+Query Latency: 29ms
+Query Latency: 32ms
+Query Latency: 31ms
+Query Latency: 47ms
+Query Latency: 37ms
+Query Latency: 36ms
+Query Latency: 34ms
+Query Latency: 33ms
+Query Latency: 39ms
+Query Latency: 32ms
+Query Latency: 37ms
+Query Latency: 31ms
+Query Latency: 34ms
+Query Latency: 40ms
+Query Latency: 42ms
+Query Latency: 35ms
+Query Latency: 30ms
+Query Latency: 35ms
+Query Latency: 39ms
+Query Latency: 33ms
+Query Latency: 31ms
+Query Latency: 33ms
+Query Latency: 39ms
+Query Latency: 37ms
+Query Latency: 36ms
+Query Latency: 33ms
+Query Latency: 33ms
+Query Latency: 42ms
+Query Latency: 31ms
+Query Latency: 35ms
+Query Latency: 45ms
+Query Latency: 32ms
+Query Latency: 31ms
+Query Latency: 29ms
+Query Latency: 31ms
+Query Latency: 29ms
+Query Latency: 31ms
+Query Latency: 60ms
+Query Latency: 37ms
+Query Latency: 29ms
+Query Latency: 29ms
+Query Latency: 35ms
+Query Latency: 32ms
+Query Latency: 35ms
+Query Latency: 30ms
+Query Latency: 37ms
+Query Latency: 35ms
+Query Latency: 33ms
+Query Latency: 34ms
+Query Latency: 35ms
+Query Latency: 35ms
+Query Latency: 38ms
+Query Latency: 34ms
+Query Latency: 29ms
+Query Latency: 36ms
+Query Latency: 35ms
+Query Latency: 34ms
+Query Latency: 38ms
+Query Latency: 32ms
+Query Latency: 32ms
+Query Latency: 30ms
+Query Latency: 62ms
+Query Latency: 32ms
+Query Latency: 35ms
+Query Latency: 35ms
+Query Latency: 44ms
+Query Latency: 32ms
+Query Latency: 34ms
+Query Latency: 34ms
+Query Latency: 36ms
+Query Latency: 32ms
+Query Latency: 29ms
+Query Latency: 103ms
+Query Latency: 29ms
+Query Latency: 28ms
+Query Latency: 36ms
+Query Latency: 30ms
+Query Latency: 36ms
+Query Latency: 45ms
+Query Latency: 27ms
+Query Latency: 30ms
+Query Latency: 29ms
+Query Latency: 31ms
+Query Latency: 31ms
+Query Latency: 31ms
+Query Latency: 36ms
+Query Latency: 30ms
+Query Latency: 31ms
+Query Latency: 32ms
+Query Latency: 29ms
+Query Latency: 32ms
+Average Query Latency: 37.12ms
+All Orders Validated!

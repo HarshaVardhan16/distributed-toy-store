@@ -1,0 +1,1012 @@
+The item Whale is present and the price is 25.99 and the stock is 99999
+The item Dolphin is present and the price is 19.99 and the stock is 1499999
+The item Dolphin is present and the price is 19.99 and the stock is 1499998
+Buy for item: Dolphin is successful
+The item Whale is present and the price is 25.99 and the stock is 99995
+Buy for item: Whale is successful
+The item Tux is present and the price is 30.99 and the stock is 499999
+The item Tux is present and the price is 30.99 and the stock is 499999
+The item Whale is present and the price is 25.99 and the stock is 99993
+Buy for item: Elephant is successful
+The item Tux is present and the price is 30.99 and the stock is 499998
+The item Whale is present and the price is 25.99 and the stock is 99992
+Buy for item: Elephant is successful
+The item Whale is present and the price is 25.99 and the stock is 99992
+The item Whale is present and the price is 25.99 and the stock is 99992
+Buy for item: Elephant is successful
+The item Tux is present and the price is 30.99 and the stock is 499995
+The item Tux is present and the price is 30.99 and the stock is 499995
+The item Dolphin is present and the price is 19.99 and the stock is 1499986
+The item Elephant is present and the price is 45.99 and the stock is 199990
+The item Dolphin is present and the price is 19.99 and the stock is 1499985
+Buy for item: Dolphin is successful
+Buy for item: Whale is successful
+Buy for item: Tux is successful
+The item Tux is present and the price is 30.99 and the stock is 499993
+The item Elephant is present and the price is 45.99 and the stock is 199988
+Buy for item: Dolphin is successful
+The item Elephant is present and the price is 45.99 and the stock is 199988
+Buy for item: Dolphin is successful
+The item Tiger is not valid!
+Buy for item: Dolphin is successful
+The item Tux is present and the price is 30.99 and the stock is 499990
+Buy for item: Whale is successful
+Buy for item: Elephant is successful
+Buy for item: Elephant is successful
+The item Tux is present and the price is 30.99 and the stock is 499989
+The item Dolphin is present and the price is 19.99 and the stock is 1499971
+The item Tiger is not valid!
+Buy for item: Tux is successful
+Buy for item: Elephant is successful
+Buy for item: Elephant is successful
+Buy for an ivalid item!
+Buy for an ivalid item!
+The item Whale is present and the price is 25.99 and the stock is 99983
+Buy for item: Whale is successful
+Buy for an ivalid item!
+The item Elephant is present and the price is 45.99 and the stock is 199969
+Buy for item: Whale is successful
+Buy for item: Elephant is successful
+Buy for item: Dolphin is successful
+Buy for item: Elephant is successful
+Buy for an ivalid item!
+The item Tux is present and the price is 30.99 and the stock is 499982
+The item Whale is present and the price is 25.99 and the stock is 99974
+Buy for item: Elephant is successful
+Buy for an ivalid item!
+The item Tiger is not valid!
+The item Tiger is not valid!
+Buy for item: Whale is successful
+The item Tiger is not valid!
+The item Elephant is present and the price is 45.99 and the stock is 199962
+The item Whale is present and the price is 25.99 and the stock is 99970
+Buy for an ivalid item!
+The item Elephant is present and the price is 45.99 and the stock is 199960
+The item Whale is present and the price is 25.99 and the stock is 99966
+Buy for item: Tux is successful
+Buy for an ivalid item!
+Buy for item: Dolphin is successful
+Buy for item: Whale is successful
+Buy for item: Whale is successful
+The item Tiger is not valid!
+Buy for item: Dolphin is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499956
+The item Dolphin is present and the price is 19.99 and the stock is 1499956
+The item Tux is present and the price is 30.99 and the stock is 499974
+The item Tux is present and the price is 30.99 and the stock is 499974
+The item Elephant is present and the price is 45.99 and the stock is 199954
+Buy for item: Dolphin is successful
+Buy for an ivalid item!
+The item Tux is present and the price is 30.99 and the stock is 499972
+Buy for item: Elephant is successful
+Buy for item: Tux is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499954
+The item Whale is present and the price is 25.99 and the stock is 99955
+Buy for item: Dolphin is successful
+The item Elephant is present and the price is 45.99 and the stock is 199952
+Buy for item: Tux is successful
+Buy for item: Dolphin is successful
+The item Tux is present and the price is 30.99 and the stock is 499967
+Buy for item: Dolphin is successful
+The item Tux is present and the price is 30.99 and the stock is 499966
+Buy for item: Dolphin is successful
+Buy for an ivalid item!
+Buy for item: Whale is successful
+The item Elephant is present and the price is 45.99 and the stock is 199949
+The item Tiger is not valid!
+Buy for item: Elephant is successful
+Buy for item: Elephant is successful
+The item Whale is present and the price is 25.99 and the stock is 99951
+Buy for an ivalid item!
+The item Whale is present and the price is 25.99 and the stock is 99951
+Buy for an ivalid item!
+The item Tiger is not valid!
+The item Dolphin is present and the price is 19.99 and the stock is 1499943
+The item Elephant is present and the price is 45.99 and the stock is 199944
+Buy for item: Elephant is successful
+The item Tiger is not valid!
+The item Elephant is present and the price is 45.99 and the stock is 199943
+Buy for item: Elephant is successful
+Buy for item: Elephant is successful
+The item Tiger is not valid!
+Buy for item: Whale is successful
+The item Whale is present and the price is 25.99 and the stock is 99944
+Buy for item: Elephant is successful
+Buy for an ivalid item!
+Buy for item: Dolphin is successful
+Buy for item: Tux is successful
+Buy for item: Whale is successful
+Buy for item: Dolphin is successful
+The item Whale is present and the price is 25.99 and the stock is 99943
+The item Dolphin is present and the price is 19.99 and the stock is 1499937
+The item Elephant is present and the price is 45.99 and the stock is 199932
+The item Whale is present and the price is 25.99 and the stock is 99942
+Buy for item: Whale is successful
+The item Whale is present and the price is 25.99 and the stock is 99941
+Buy for item: Tux is successful
+Buy for item: Tux is successful
+Buy for item: Tux is successful
+Buy for an ivalid item!
+Buy for item: Elephant is successful
+Buy for item: Dolphin is successful
+The item Elephant is present and the price is 45.99 and the stock is 199928
+The item Dolphin is present and the price is 19.99 and the stock is 1499931
+Buy for item: Tux is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499930
+Buy for item: Tux is successful
+The item Whale is present and the price is 25.99 and the stock is 99934
+The item Tiger is not valid!
+Buy for item: Tux is successful
+Buy for an ivalid item!
+Buy for item: Tux is successful
+Buy for item: Whale is successful
+Buy for item: Elephant is successful
+Buy for item: Whale is successful
+Buy for item: Dolphin is successful
+Buy for an ivalid item!
+Buy for item: Whale is successful
+The item Whale is present and the price is 25.99 and the stock is 99923
+Buy for an ivalid item!
+Buy for an ivalid item!
+The item Elephant is present and the price is 45.99 and the stock is 199919
+Buy for item: Whale is successful
+The item Whale is present and the price is 25.99 and the stock is 99919
+Buy for item: Elephant is successful
+The item Elephant is present and the price is 45.99 and the stock is 199918
+The item Tiger is not valid!
+The item Tux is present and the price is 30.99 and the stock is 499932
+Buy for item: Dolphin is successful
+Buy for item: Elephant is successful
+The item Tux is present and the price is 30.99 and the stock is 499931
+Buy for item: Elephant is successful
+Buy for item: Whale is successful
+Buy for item: Whale is successful
+The item Whale is present and the price is 25.99 and the stock is 99913
+The item Dolphin is present and the price is 19.99 and the stock is 1499915
+Buy for item: Elephant is successful
+Buy for item: Tux is successful
+The item Whale is present and the price is 25.99 and the stock is 99913
+Buy for item: Whale is successful
+The item Tux is present and the price is 30.99 and the stock is 499925
+The item Tux is present and the price is 30.99 and the stock is 499925
+Buy for item: Dolphin is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499908
+The item Whale is present and the price is 25.99 and the stock is 99908
+The item Tiger is not valid!
+Buy for item: Elephant is successful
+Buy for item: Dolphin is successful
+The item Tux is present and the price is 30.99 and the stock is 499919
+Buy for an ivalid item!
+The item Dolphin is present and the price is 19.99 and the stock is 1499904
+Buy for an ivalid item!
+The item Tux is present and the price is 30.99 and the stock is 499917
+Buy for item: Whale is successful
+The item Elephant is present and the price is 45.99 and the stock is 199904
+Buy for item: Tux is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499901
+Buy for item: Elephant is successful
+The item Tux is present and the price is 30.99 and the stock is 499913
+The item Whale is present and the price is 25.99 and the stock is 99902
+Buy for an ivalid item!
+The item Tiger is not valid!
+The item Elephant is present and the price is 45.99 and the stock is 199902
+The item Tux is present and the price is 30.99 and the stock is 499912
+Buy for item: Dolphin is successful
+Buy for item: Elephant is successful
+Buy for an ivalid item!
+Buy for item: Elephant is successful
+Buy for item: Dolphin is successful
+The item Tiger is not valid!
+The item Tiger is not valid!
+Buy for item: Tux is successful
+Buy for an ivalid item!
+The item Tux is present and the price is 30.99 and the stock is 499909
+The item Tiger is not valid!
+Buy for item: Tux is successful
+The item Elephant is present and the price is 45.99 and the stock is 199893
+The item Tiger is not valid!
+Buy for an ivalid item!
+The item Whale is present and the price is 25.99 and the stock is 99889
+The item Whale is present and the price is 25.99 and the stock is 99889
+Buy for item: Elephant is successful
+Buy for item: Whale is successful
+Buy for item: Dolphin is successful
+Buy for item: Tux is successful
+Buy for item: Elephant is successful
+Buy for item: Dolphin is successful
+Buy for item: Tux is successful
+The item Tiger is not valid!
+The item Tux is present and the price is 30.99 and the stock is 499903
+Buy for an ivalid item!
+Buy for an ivalid item!
+The item Whale is present and the price is 25.99 and the stock is 99884
+The item Tiger is not valid!
+Buy for item: Elephant is successful
+Buy for item: Whale is successful
+Buy for item: Whale is successful
+Buy for item: Dolphin is successful
+Buy for an ivalid item!
+Buy for item: Whale is successful
+Buy for item: Tux is successful
+The item Whale is present and the price is 25.99 and the stock is 99878
+The item Tiger is not valid!
+The item Tiger is not valid!
+The item Elephant is present and the price is 45.99 and the stock is 199875
+The item Dolphin is present and the price is 19.99 and the stock is 1499877
+Buy for item: Dolphin is successful
+Buy for item: Whale is successful
+The item Whale is present and the price is 25.99 and the stock is 99876
+The item Whale is present and the price is 25.99 and the stock is 99876
+Buy for an ivalid item!
+The item Elephant is present and the price is 45.99 and the stock is 199871
+The item Elephant is present and the price is 45.99 and the stock is 199871
+The item Tiger is not valid!
+Buy for an ivalid item!
+Buy for item: Dolphin is successful
+The item Elephant is present and the price is 45.99 and the stock is 199871
+Buy for item: Tux is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499873
+The item Elephant is present and the price is 45.99 and the stock is 199870
+Buy for item: Tux is successful
+The item Tiger is not valid!
+The item Tiger is not valid!
+Buy for item: Elephant is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499870
+The item Elephant is present and the price is 45.99 and the stock is 199866
+Buy for item: Dolphin is successful
+The item Elephant is present and the price is 45.99 and the stock is 199866
+The item Elephant is present and the price is 45.99 and the stock is 199866
+Buy for an ivalid item!
+The item Dolphin is present and the price is 19.99 and the stock is 1499868
+Buy for item: Tux is successful
+The item Elephant is present and the price is 45.99 and the stock is 199864
+The item Dolphin is present and the price is 19.99 and the stock is 1499867
+The item Dolphin is present and the price is 19.99 and the stock is 1499867
+Buy for item: Elephant is successful
+The item Tiger is not valid!
+The item Dolphin is present and the price is 19.99 and the stock is 1499865
+Buy for item: Tux is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499865
+The item Tiger is not valid!
+The item Tux is present and the price is 30.99 and the stock is 499883
+The item Elephant is present and the price is 45.99 and the stock is 199861
+Buy for item: Dolphin is successful
+Buy for item: Elephant is successful
+The item Whale is present and the price is 25.99 and the stock is 99862
+Buy for an ivalid item!
+The item Elephant is present and the price is 45.99 and the stock is 199859
+Buy for item: Tux is successful
+Buy for item: Tux is successful
+Buy for an ivalid item!
+The item Dolphin is present and the price is 19.99 and the stock is 1499858
+Buy for item: Whale is successful
+Buy for item: Tux is successful
+The item Tiger is not valid!
+The item Tiger is not valid!
+The item Tiger is not valid!
+Buy for item: Whale is successful
+Buy for item: Tux is successful
+Buy for item: Tux is successful
+The item Whale is present and the price is 25.99 and the stock is 99850
+Buy for item: Whale is successful
+The item Elephant is present and the price is 45.99 and the stock is 199854
+Buy for item: Tux is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499852
+Buy for an ivalid item!
+Buy for item: Tux is successful
+The item Tiger is not valid!
+The item Dolphin is present and the price is 19.99 and the stock is 1499851
+Buy for item: Dolphin is successful
+Buy for item: Tux is successful
+Buy for item: Whale is successful
+Buy for item: Dolphin is successful
+The item Elephant is present and the price is 45.99 and the stock is 199850
+The item Dolphin is present and the price is 19.99 and the stock is 1499848
+The item Tux is present and the price is 30.99 and the stock is 499862
+The item Dolphin is present and the price is 19.99 and the stock is 1499846
+The item Tiger is not valid!
+Buy for item: Tux is successful
+The item Tiger is not valid!
+Buy for item: Tux is successful
+Buy for an ivalid item!
+Buy for item: Dolphin is successful
+Buy for item: Whale is successful
+Buy for an ivalid item!
+The item Tux is present and the price is 30.99 and the stock is 499856
+Buy for item: Elephant is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499841
+Buy for item: Dolphin is successful
+The item Tiger is not valid!
+The item Whale is present and the price is 25.99 and the stock is 99838
+The item Tux is present and the price is 30.99 and the stock is 499851
+Buy for item: Tux is successful
+Buy for item: Tux is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499836
+The item Whale is present and the price is 25.99 and the stock is 99838
+Buy for item: Dolphin is successful
+The item Whale is present and the price is 25.99 and the stock is 99838
+The item Dolphin is present and the price is 19.99 and the stock is 1499835
+The item Tux is present and the price is 30.99 and the stock is 499847
+Buy for item: Elephant is successful
+The item Whale is present and the price is 25.99 and the stock is 99836
+The item Elephant is present and the price is 45.99 and the stock is 199839
+The item Tux is present and the price is 30.99 and the stock is 499846
+Buy for item: Whale is successful
+The item Tiger is not valid!
+The item Whale is present and the price is 25.99 and the stock is 99834
+The item Tiger is not valid!
+Buy for an ivalid item!
+Buy for item: Elephant is successful
+Buy for item: Dolphin is successful
+The item Whale is present and the price is 25.99 and the stock is 99830
+The item Tux is present and the price is 30.99 and the stock is 499845
+The item Tiger is not valid!
+Buy for item: Whale is successful
+The item Tux is present and the price is 30.99 and the stock is 499842
+Buy for item: Elephant is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499829
+The item Whale is present and the price is 25.99 and the stock is 99825
+The item Whale is present and the price is 25.99 and the stock is 99825
+Buy for an ivalid item!
+Buy for item: Dolphin is successful
+Buy for an ivalid item!
+The item Dolphin is present and the price is 19.99 and the stock is 1499824
+Buy for item: Dolphin is successful
+Buy for item: Dolphin is successful
+Buy for item: Tux is successful
+Buy for item: Whale is successful
+Buy for item: Elephant is successful
+Buy for item: Dolphin is successful
+Buy for item: Whale is successful
+Buy for item: Elephant is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499818
+Buy for item: Whale is successful
+The item Tiger is not valid!
+The item Tux is present and the price is 30.99 and the stock is 499835
+Buy for item: Elephant is successful
+The item Whale is present and the price is 25.99 and the stock is 99814
+The item Whale is present and the price is 25.99 and the stock is 99814
+The item Whale is present and the price is 25.99 and the stock is 99814
+The item Dolphin is present and the price is 19.99 and the stock is 1499817
+Buy for an ivalid item!
+The item Whale is present and the price is 25.99 and the stock is 99813
+Buy for item: Tux is successful
+Buy for item: Elephant is successful
+The item Tiger is not valid!
+Buy for item: Tux is successful
+The item Tiger is not valid!
+The item Tiger is not valid!
+The item Elephant is present and the price is 45.99 and the stock is 199815
+The item Tux is present and the price is 30.99 and the stock is 499825
+The item Tux is present and the price is 30.99 and the stock is 499825
+Buy for an ivalid item!
+Buy for item: Elephant is successful
+Buy for item: Elephant is successful
+The item Whale is present and the price is 25.99 and the stock is 99812
+Buy for an ivalid item!
+The item Whale is present and the price is 25.99 and the stock is 99810
+Buy for item: Whale is successful
+The item Elephant is present and the price is 45.99 and the stock is 199810
+The item Elephant is present and the price is 45.99 and the stock is 199810
+Buy for an ivalid item!
+Buy for item: Whale is successful
+Buy for item: Dolphin is successful
+Buy for item: Tux is successful
+Buy for item: Dolphin is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499810
+The item Elephant is present and the price is 45.99 and the stock is 199804
+Buy for item: Tux is successful
+The item Tux is present and the price is 30.99 and the stock is 499812
+The item Dolphin is present and the price is 19.99 and the stock is 1499808
+Buy for item: Elephant is successful
+The item Tiger is not valid!
+Buy for item: Tux is successful
+Buy for an ivalid item!
+Buy for item: Dolphin is successful
+Buy for item: Whale is successful
+Buy for an ivalid item!
+Buy for item: Tux is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499805
+The item Tiger is not valid!
+The item Tiger is not valid!
+The item Tiger is not valid!
+Buy for item: Elephant is successful
+Buy for item: Elephant is successful
+Buy for item: Whale is successful
+The item Whale is present and the price is 25.99 and the stock is 99795
+The item Dolphin is present and the price is 19.99 and the stock is 1499800
+Buy for an ivalid item!
+The item Elephant is present and the price is 45.99 and the stock is 199794
+Buy for item: Dolphin is successful
+Buy for item: Whale is successful
+Buy for item: Whale is successful
+Buy for item: Elephant is successful
+The item Whale is present and the price is 25.99 and the stock is 99785
+Buy for item: Elephant is successful
+The item Tiger is not valid!
+The item Elephant is present and the price is 45.99 and the stock is 199789
+Buy for an ivalid item!
+Buy for item: Elephant is successful
+Buy for item: Elephant is successful
+Buy for item: Elephant is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499793
+The item Elephant is present and the price is 45.99 and the stock is 199783
+Buy for an ivalid item!
+The item Elephant is present and the price is 45.99 and the stock is 199782
+The item Tiger is not valid!
+Buy for item: Whale is successful
+The item Whale is present and the price is 25.99 and the stock is 99776
+Buy for item: Dolphin is successful
+Buy for an ivalid item!
+The item Whale is present and the price is 25.99 and the stock is 99776
+The item Whale is present and the price is 25.99 and the stock is 99776
+The item Elephant is present and the price is 45.99 and the stock is 199778
+Buy for item: Dolphin is successful
+Buy for item: Whale is successful
+Buy for item: Whale is successful
+Buy for item: Elephant is successful
+Buy for item: Whale is successful
+Buy for item: Dolphin is successful
+The item Tiger is not valid!
+The item Whale is present and the price is 25.99 and the stock is 99767
+Buy for an ivalid item!
+Buy for item: Elephant is successful
+The item Tux is present and the price is 30.99 and the stock is 499787
+The item Tux is present and the price is 30.99 and the stock is 499787
+Buy for an ivalid item!
+Buy for item: Tux is successful
+Buy for item: Whale is successful
+Buy for item: Tux is successful
+The item Tiger is not valid!
+Buy for an ivalid item!
+Buy for item: Elephant is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499778
+The item Whale is present and the price is 25.99 and the stock is 99759
+The item Tux is present and the price is 30.99 and the stock is 499784
+The item Whale is present and the price is 25.99 and the stock is 99759
+Buy for item: Tux is successful
+The item Tux is present and the price is 30.99 and the stock is 499780
+Buy for an ivalid item!
+The item Tux is present and the price is 30.99 and the stock is 499779
+Buy for item: Whale is successful
+The item Elephant is present and the price is 45.99 and the stock is 199760
+The item Whale is present and the price is 25.99 and the stock is 99753
+The item Whale is present and the price is 25.99 and the stock is 99753
+Buy for item: Whale is successful
+Buy for item: Dolphin is successful
+The item Elephant is present and the price is 45.99 and the stock is 199758
+The item Tiger is not valid!
+The item Dolphin is present and the price is 19.99 and the stock is 1499773
+Buy for item: Whale is successful
+Buy for item: Elephant is successful
+The item Tux is present and the price is 30.99 and the stock is 499775
+The item Tiger is not valid!
+Buy for an ivalid item!
+Buy for item: Elephant is successful
+The item Elephant is present and the price is 45.99 and the stock is 199752
+The item Tiger is not valid!
+Buy for item: Whale is successful
+The item Whale is present and the price is 25.99 and the stock is 99743
+Buy for item: Whale is successful
+The item Elephant is present and the price is 45.99 and the stock is 199749
+The item Tux is present and the price is 30.99 and the stock is 499769
+The item Tux is present and the price is 30.99 and the stock is 499768
+The item Dolphin is present and the price is 19.99 and the stock is 1499764
+The item Whale is present and the price is 25.99 and the stock is 99742
+Buy for item: Dolphin is successful
+The item Tux is present and the price is 30.99 and the stock is 499766
+Buy for item: Dolphin is successful
+Buy for item: Elephant is successful
+Buy for an ivalid item!
+The item Tiger is not valid!
+The item Dolphin is present and the price is 19.99 and the stock is 1499761
+Buy for an ivalid item!
+The item Dolphin is present and the price is 19.99 and the stock is 1499761
+Buy for item: Elephant is successful
+Buy for item: Whale is successful
+The item Tux is present and the price is 30.99 and the stock is 499762
+Buy for item: Elephant is successful
+The item Whale is present and the price is 25.99 and the stock is 99734
+The item Dolphin is present and the price is 19.99 and the stock is 1499758
+The item Dolphin is present and the price is 19.99 and the stock is 1499758
+Buy for item: Tux is successful
+Buy for item: Elephant is successful
+The item Elephant is present and the price is 45.99 and the stock is 199742
+Buy for item: Whale is successful
+The item Whale is present and the price is 25.99 and the stock is 99732
+The item Elephant is present and the price is 45.99 and the stock is 199739
+Buy for item: Elephant is successful
+The item Whale is present and the price is 25.99 and the stock is 99731
+Buy for item: Elephant is successful
+Buy for item: Tux is successful
+Buy for item: Whale is successful
+The item Whale is present and the price is 25.99 and the stock is 99729
+The item Whale is present and the price is 25.99 and the stock is 99729
+Buy for item: Elephant is successful
+Buy for item: Elephant is successful
+Buy for item: Dolphin is successful
+Buy for item: Elephant is successful
+The item Tux is present and the price is 30.99 and the stock is 499748
+The item Dolphin is present and the price is 19.99 and the stock is 1499750
+The item Dolphin is present and the price is 19.99 and the stock is 1499750
+The item Dolphin is present and the price is 19.99 and the stock is 1499750
+The item Tux is present and the price is 30.99 and the stock is 499747
+The item Dolphin is present and the price is 19.99 and the stock is 1499749
+Buy for item: Dolphin is successful
+Buy for item: Dolphin is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499745
+Buy for item: Tux is successful
+Buy for item: Tux is successful
+The item Tux is present and the price is 30.99 and the stock is 499741
+Buy for item: Dolphin is successful
+The item Tiger is not valid!
+The item Whale is present and the price is 25.99 and the stock is 99721
+Buy for item: Dolphin is successful
+Buy for an ivalid item!
+The item Dolphin is present and the price is 19.99 and the stock is 1499742
+Buy for item: Elephant is successful
+Buy for item: Dolphin is successful
+Buy for item: Elephant is successful
+Buy for item: Tux is successful
+The item Whale is present and the price is 25.99 and the stock is 99719
+The item Tux is present and the price is 30.99 and the stock is 499732
+Buy for item: Dolphin is successful
+Buy for item: Tux is successful
+Buy for item: Tux is successful
+Buy for item: Tux is successful
+Buy for item: Tux is successful
+The item Tux is present and the price is 30.99 and the stock is 499728
+Buy for item: Tux is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499735
+The item Dolphin is present and the price is 19.99 and the stock is 1499735
+Buy for an ivalid item!
+Buy for an ivalid item!
+The item Whale is present and the price is 25.99 and the stock is 99711
+Buy for item: Dolphin is successful
+The item Whale is present and the price is 25.99 and the stock is 99710
+The item Whale is present and the price is 25.99 and the stock is 99710
+Buy for an ivalid item!
+Buy for item: Tux is successful
+The item Whale is present and the price is 25.99 and the stock is 99709
+Buy for item: Tux is successful
+The item Tux is present and the price is 30.99 and the stock is 499718
+The item Whale is present and the price is 25.99 and the stock is 99709
+Buy for an ivalid item!
+Buy for an ivalid item!
+The item Tux is present and the price is 30.99 and the stock is 499717
+The item Tiger is not valid!
+The item Tiger is not valid!
+The item Whale is present and the price is 25.99 and the stock is 99709
+The item Elephant is present and the price is 45.99 and the stock is 199707
+The item Whale is present and the price is 25.99 and the stock is 99709
+Buy for an ivalid item!
+Buy for item: Whale is successful
+Buy for item: Whale is successful
+Buy for item: Tux is successful
+Buy for item: Elephant is successful
+Buy for item: Tux is successful
+Buy for item: Tux is successful
+Buy for item: Tux is successful
+Buy for an ivalid item!
+The item Tux is present and the price is 30.99 and the stock is 499705
+The item Whale is present and the price is 25.99 and the stock is 99698
+The item Whale is present and the price is 25.99 and the stock is 99698
+The item Whale is present and the price is 25.99 and the stock is 99697
+Buy for item: Tux is successful
+Buy for item: Tux is successful
+Buy for an ivalid item!
+Buy for item: Dolphin is successful
+The item Whale is present and the price is 25.99 and the stock is 99696
+Buy for an ivalid item!
+Buy for an ivalid item!
+Buy for item: Dolphin is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499712
+The item Elephant is present and the price is 45.99 and the stock is 199697
+The item Elephant is present and the price is 45.99 and the stock is 199697
+Buy for an ivalid item!
+Buy for an ivalid item!
+The item Whale is present and the price is 25.99 and the stock is 99692
+The item Tiger is not valid!
+Buy for item: Elephant is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499711
+Buy for item: Dolphin is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499708
+The item Tux is present and the price is 30.99 and the stock is 499694
+The item Tiger is not valid!
+The item Tux is present and the price is 30.99 and the stock is 499694
+The item Dolphin is present and the price is 19.99 and the stock is 1499705
+The item Tiger is not valid!
+Buy for item: Whale is successful
+The item Elephant is present and the price is 45.99 and the stock is 199687
+Buy for item: Elephant is successful
+Buy for item: Tux is successful
+Buy for item: Elephant is successful
+Buy for item: Elephant is successful
+The item Whale is present and the price is 25.99 and the stock is 99688
+Buy for item: Whale is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499699
+Buy for item: Elephant is successful
+The item Elephant is present and the price is 45.99 and the stock is 199675
+The item Elephant is present and the price is 45.99 and the stock is 199675
+Buy for item: Elephant is successful
+Buy for item: Tux is successful
+Buy for item: Whale is successful
+Buy for item: Tux is successful
+The item Tiger is not valid!
+Buy for an ivalid item!
+Buy for item: Dolphin is successful
+Buy for item: Elephant is successful
+Buy for item: Whale is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499696
+The item Dolphin is present and the price is 19.99 and the stock is 1499696
+The item Tux is present and the price is 30.99 and the stock is 499680
+Buy for item: Dolphin is successful
+Buy for item: Whale is successful
+Buy for item: Tux is successful
+The item Tiger is not valid!
+Buy for item: Whale is successful
+The item Elephant is present and the price is 45.99 and the stock is 199668
+The item Dolphin is present and the price is 19.99 and the stock is 1499688
+Buy for item: Elephant is successful
+Buy for an ivalid item!
+Buy for item: Whale is successful
+Buy for item: Whale is successful
+The item Tux is present and the price is 30.99 and the stock is 499676
+The item Whale is present and the price is 25.99 and the stock is 99670
+Buy for item: Whale is successful
+Buy for item: Dolphin is successful
+Buy for item: Tux is successful
+Buy for item: Dolphin is successful
+Buy for item: Elephant is successful
+Buy for item: Tux is successful
+The item Tiger is not valid!
+Buy for item: Dolphin is successful
+Buy for item: Elephant is successful
+Buy for item: Dolphin is successful
+The item Tux is present and the price is 30.99 and the stock is 499671
+The item Dolphin is present and the price is 19.99 and the stock is 1499677
+The item Whale is present and the price is 25.99 and the stock is 99665
+Buy for item: Tux is successful
+The item Elephant is present and the price is 45.99 and the stock is 199654
+The item Elephant is present and the price is 45.99 and the stock is 199654
+Buy for an ivalid item!
+Buy for item: Elephant is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499672
+The item Tux is present and the price is 30.99 and the stock is 499663
+Buy for item: Whale is successful
+The item Tiger is not valid!
+The item Tiger is not valid!
+Buy for item: Tux is successful
+The item Tiger is not valid!
+Buy for item: Dolphin is successful
+The item Tux is present and the price is 30.99 and the stock is 499660
+The item Dolphin is present and the price is 19.99 and the stock is 1499668
+The item Tiger is not valid!
+The item Tiger is not valid!
+Buy for an ivalid item!
+The item Tux is present and the price is 30.99 and the stock is 499659
+Buy for item: Dolphin is successful
+Buy for item: Elephant is successful
+The item Elephant is present and the price is 45.99 and the stock is 199648
+Buy for item: Dolphin is successful
+Buy for item: Whale is successful
+Buy for an ivalid item!
+Buy for item: Whale is successful
+Buy for item: Tux is successful
+The item Elephant is present and the price is 45.99 and the stock is 199642
+The item Tux is present and the price is 30.99 and the stock is 499654
+Buy for an ivalid item!
+Buy for an ivalid item!
+Buy for item: Dolphin is successful
+Buy for item: Whale is successful
+Buy for item: Elephant is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499654
+The item Dolphin is present and the price is 19.99 and the stock is 1499654
+The item Tux is present and the price is 30.99 and the stock is 499650
+The item Tux is present and the price is 30.99 and the stock is 499650
+The item Tiger is not valid!
+Buy for item: Dolphin is successful
+Buy for item: Tux is successful
+The item Tiger is not valid!
+The item Tux is present and the price is 30.99 and the stock is 499645
+The item Tux is present and the price is 30.99 and the stock is 499645
+The item Dolphin is present and the price is 19.99 and the stock is 1499651
+Buy for item: Tux is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499650
+Buy for an ivalid item!
+Buy for an ivalid item!
+Buy for item: Dolphin is successful
+Buy for item: Elephant is successful
+The item Elephant is present and the price is 45.99 and the stock is 199625
+Buy for item: Tux is successful
+The item Elephant is present and the price is 45.99 and the stock is 199625
+Buy for an ivalid item!
+The item Whale is present and the price is 25.99 and the stock is 99632
+The item Elephant is present and the price is 45.99 and the stock is 199622
+The item Elephant is present and the price is 45.99 and the stock is 199622
+Buy for an ivalid item!
+The item Dolphin is present and the price is 19.99 and the stock is 1499643
+Buy for item: Whale is successful
+The item Tiger is not valid!
+Buy for item: Elephant is successful
+Buy for item: Tux is successful
+The item Whale is present and the price is 25.99 and the stock is 99629
+The item Elephant is present and the price is 45.99 and the stock is 199619
+Buy for item: Tux is successful
+Buy for item: Elephant is successful
+The item Tux is present and the price is 30.99 and the stock is 499628
+The item Tiger is not valid!
+The item Tux is present and the price is 30.99 and the stock is 499628
+The item Tiger is not valid!
+The item Tux is present and the price is 30.99 and the stock is 499628
+The item Dolphin is present and the price is 19.99 and the stock is 1499637
+The item Tux is present and the price is 30.99 and the stock is 499628
+The item Whale is present and the price is 25.99 and the stock is 99627
+The item Whale is present and the price is 25.99 and the stock is 99627
+Buy for an ivalid item!
+The item Tux is present and the price is 30.99 and the stock is 499626
+Buy for item: Tux is successful
+The item Tiger is not valid!
+Buy for an ivalid item!
+Buy for item: Whale is successful
+Buy for item: Elephant is successful
+Buy for item: Dolphin is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499633
+The item Whale is present and the price is 25.99 and the stock is 99622
+Buy for item: Tux is successful
+The item Tiger is not valid!
+Buy for item: Tux is successful
+Buy for item: Dolphin is successful
+The item Whale is present and the price is 25.99 and the stock is 99619
+Buy for item: Elephant is successful
+The item Tux is present and the price is 30.99 and the stock is 499619
+Buy for item: Dolphin is successful
+The item Tiger is not valid!
+The item Elephant is present and the price is 45.99 and the stock is 199597
+Buy for item: Elephant is successful
+The item Elephant is present and the price is 45.99 and the stock is 199596
+The item Elephant is present and the price is 45.99 and the stock is 199596
+Buy for item: Whale is successful
+Buy for item: Elephant is successful
+Buy for item: Dolphin is successful
+The item Whale is present and the price is 25.99 and the stock is 99615
+Buy for an ivalid item!
+The item Whale is present and the price is 25.99 and the stock is 99614
+Buy for an ivalid item!
+The item Elephant is present and the price is 45.99 and the stock is 199590
+The item Whale is present and the price is 25.99 and the stock is 99612
+The item Tux is present and the price is 30.99 and the stock is 499614
+Buy for item: Tux is successful
+The item Tux is present and the price is 30.99 and the stock is 499610
+Buy for item: Dolphin is successful
+The item Tux is present and the price is 30.99 and the stock is 499610
+Buy for item: Tux is successful
+Buy for an ivalid item!
+Buy for item: Dolphin is successful
+The item Tiger is not valid!
+The item Tux is present and the price is 30.99 and the stock is 499604
+The item Tiger is not valid!
+The item Tiger is not valid!
+Buy for item: Tux is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499616
+Buy for an ivalid item!
+Buy for item: Dolphin is successful
+The item Elephant is present and the price is 45.99 and the stock is 199585
+Buy for an ivalid item!
+Buy for item: Elephant is successful
+Buy for item: Elephant is successful
+Buy for item: Elephant is successful
+Buy for item: Dolphin is successful
+Buy for item: Dolphin is successful
+The item Whale is present and the price is 25.99 and the stock is 99603
+The item Dolphin is present and the price is 19.99 and the stock is 1499610
+The item Whale is present and the price is 25.99 and the stock is 99603
+Buy for item: Whale is successful
+Buy for item: Tux is successful
+The item Tux is present and the price is 30.99 and the stock is 499593
+The item Dolphin is present and the price is 19.99 and the stock is 1499609
+Buy for item: Whale is successful
+The item Whale is present and the price is 25.99 and the stock is 99598
+Buy for an ivalid item!
+The item Dolphin is present and the price is 19.99 and the stock is 1499607
+The item Tiger is not valid!
+Buy for item: Whale is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499606
+The item Dolphin is present and the price is 19.99 and the stock is 1499605
+The item Elephant is present and the price is 45.99 and the stock is 199571
+The item Tiger is not valid!
+The item Dolphin is present and the price is 19.99 and the stock is 1499603
+The item Tux is present and the price is 30.99 and the stock is 499588
+The item Whale is present and the price is 25.99 and the stock is 99594
+Buy for item: Whale is successful
+The item Tiger is not valid!
+Buy for item: Elephant is successful
+Buy for an ivalid item!
+Buy for an ivalid item!
+The item Tiger is not valid!
+Buy for item: Whale is successful
+Buy for item: Whale is successful
+Buy for item: Tux is successful
+Buy for an ivalid item!
+The item Whale is present and the price is 25.99 and the stock is 99588
+The item Whale is present and the price is 25.99 and the stock is 99588
+Buy for item: Tux is successful
+The item Tux is present and the price is 30.99 and the stock is 499580
+Buy for an ivalid item!
+Buy for an ivalid item!
+The item Dolphin is present and the price is 19.99 and the stock is 1499592
+Buy for an ivalid item!
+The item Elephant is present and the price is 45.99 and the stock is 199563
+The item Tiger is not valid!
+The item Whale is present and the price is 25.99 and the stock is 99585
+The item Elephant is present and the price is 45.99 and the stock is 199563
+The item Whale is present and the price is 25.99 and the stock is 99583
+Buy for item: Dolphin is successful
+Buy for item: Tux is successful
+Buy for item: Dolphin is successful
+Buy for item: Tux is successful
+Buy for item: Whale is successful
+The item Tiger is not valid!
+The item Elephant is present and the price is 45.99 and the stock is 199562
+The item Dolphin is present and the price is 19.99 and the stock is 1499587
+The item Tux is present and the price is 30.99 and the stock is 499570
+Buy for item: Whale is successful
+Buy for item: Dolphin is successful
+Buy for item: Dolphin is successful
+Buy for item: Elephant is successful
+The item Elephant is present and the price is 45.99 and the stock is 199560
+Buy for item: Whale is successful
+The item Whale is present and the price is 25.99 and the stock is 99572
+Buy for item: Tux is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499584
+Buy for item: Dolphin is successful
+Buy for item: Dolphin is successful
+Buy for item: Whale is successful
+Buy for an ivalid item!
+The item Dolphin is present and the price is 19.99 and the stock is 1499581
+Buy for item: Whale is successful
+Buy for item: Dolphin is successful
+Buy for item: Tux is successful
+Buy for item: Whale is successful
+The item Tiger is not valid!
+The item Dolphin is present and the price is 19.99 and the stock is 1499578
+The item Dolphin is present and the price is 19.99 and the stock is 1499578
+The item Tux is present and the price is 30.99 and the stock is 499565
+The item Whale is present and the price is 25.99 and the stock is 99563
+The item Tux is present and the price is 30.99 and the stock is 499565
+Buy for item: Whale is successful
+Buy for item: Whale is successful
+Buy for item: Tux is successful
+Buy for item: Tux is successful
+The item Whale is present and the price is 25.99 and the stock is 99557
+The item Tux is present and the price is 30.99 and the stock is 499561
+The item Elephant is present and the price is 45.99 and the stock is 199545
+The item Elephant is present and the price is 45.99 and the stock is 199545
+Buy for an ivalid item!
+The item Dolphin is present and the price is 19.99 and the stock is 1499573
+The item Tux is present and the price is 30.99 and the stock is 499555
+Buy for item: Tux is successful
+The item Tiger is not valid!
+The item Tiger is not valid!
+The item Tiger is not valid!
+Buy for item: Tux is successful
+The item Tux is present and the price is 30.99 and the stock is 499548
+The item Whale is present and the price is 25.99 and the stock is 99552
+The item Tux is present and the price is 30.99 and the stock is 499545
+The item Dolphin is present and the price is 19.99 and the stock is 1499570
+Buy for item: Whale is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499569
+Buy for item: Whale is successful
+The item Tiger is not valid!
+The item Tux is present and the price is 30.99 and the stock is 499543
+Buy for an ivalid item!
+The item Dolphin is present and the price is 19.99 and the stock is 1499569
+Buy for an ivalid item!
+The item Elephant is present and the price is 45.99 and the stock is 199539
+Buy for item: Elephant is successful
+The item Tux is present and the price is 30.99 and the stock is 499538
+Buy for item: Dolphin is successful
+The item Tux is present and the price is 30.99 and the stock is 499535
+The item Elephant is present and the price is 45.99 and the stock is 199537
+Buy for item: Whale is successful
+Buy for item: Elephant is successful
+Buy for an ivalid item!
+Buy for item: Tux is successful
+Buy for an ivalid item!
+The item Elephant is present and the price is 45.99 and the stock is 199534
+Buy for item: Elephant is successful
+Buy for item: Tux is successful
+The item Tiger is not valid!
+Buy for item: Tux is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499559
+The item Whale is present and the price is 25.99 and the stock is 99540
+Buy for item: Tux is successful
+Buy for an ivalid item!
+The item Tiger is not valid!
+The item Whale is present and the price is 25.99 and the stock is 99539
+The item Dolphin is present and the price is 19.99 and the stock is 1499558
+The item Dolphin is present and the price is 19.99 and the stock is 1499557
+Buy for item: Whale is successful
+The item Tiger is not valid!
+The item Whale is present and the price is 25.99 and the stock is 99534
+The item Tux is present and the price is 30.99 and the stock is 499521
+The item Tux is present and the price is 30.99 and the stock is 499521
+Buy for item: Elephant is successful
+Buy for item: Dolphin is successful
+Buy for item: Dolphin is successful
+The item Tux is present and the price is 30.99 and the stock is 499520
+The item Elephant is present and the price is 45.99 and the stock is 199526
+The item Tiger is not valid!
+The item Tux is present and the price is 30.99 and the stock is 499517
+Buy for an ivalid item!
+The item Dolphin is present and the price is 19.99 and the stock is 1499554
+Buy for item: Whale is successful
+The item Tux is present and the price is 30.99 and the stock is 499516
+Buy for an ivalid item!
+Buy for item: Elephant is successful
+Buy for an ivalid item!
+The item Dolphin is present and the price is 19.99 and the stock is 1499552
+The item Elephant is present and the price is 45.99 and the stock is 199518
+Buy for an ivalid item!
+Buy for item: Whale is successful
+The item Tux is present and the price is 30.99 and the stock is 499513
+The item Tiger is not valid!
+The item Dolphin is present and the price is 19.99 and the stock is 1499550
+Buy for item: Elephant is successful
+The item Tux is present and the price is 30.99 and the stock is 499510
+The item Tux is present and the price is 30.99 and the stock is 499510
+Buy for item: Dolphin is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499546
+The item Elephant is present and the price is 45.99 and the stock is 199511
+Buy for item: Tux is successful
+Buy for item: Elephant is successful
+The item Whale is present and the price is 25.99 and the stock is 99520
+The item Whale is present and the price is 25.99 and the stock is 99519
+The item Elephant is present and the price is 45.99 and the stock is 199508
+The item Dolphin is present and the price is 19.99 and the stock is 1499542
+The item Dolphin is present and the price is 19.99 and the stock is 1499541
+The item Dolphin is present and the price is 19.99 and the stock is 1499541
+The item Tiger is not valid!
+The item Tiger is not valid!
+The item Tiger is not valid!
+The item Dolphin is present and the price is 19.99 and the stock is 1499538
+Buy for item: Whale is successful
+The item Whale is present and the price is 25.99 and the stock is 99515
+Buy for item: Elephant is successful
+The item Dolphin is present and the price is 19.99 and the stock is 1499535
+Buy for item: Whale is successful
+The item Tux is present and the price is 30.99 and the stock is 499500
+Buy for item: Whale is successful
+Buy for an ivalid item!
+The item Tux is present and the price is 30.99 and the stock is 499499
+Buy for an ivalid item!
+The item Tux is present and the price is 30.99 and the stock is 499497
+The item Elephant is present and the price is 45.99 and the stock is 199499
+The item Tux is present and the price is 30.99 and the stock is 499496
+Buy for item: Tux is successful
+Buy for item: Elephant is successful
+Buy for item: Whale is successful
+Buy for an ivalid item!
+Buy for item: Whale is successful
+The item Elephant is present and the price is 45.99 and the stock is 199498
+Buy for item: Whale is successful
+The item Tux is present and the price is 30.99 and the stock is 499494
+Buy for item: Dolphin is successful
+Buy for item: Dolphin is successful
+Buy for item: Whale is successful
+Buy for item: Whale is successful
+Buy for item: Dolphin is successful
+Buy for an ivalid item!
+The item Whale is present and the price is 25.99 and the stock is 99496
+Tiger_query => Max: 90ms, Min: 26ms, Mean: 35ms
+Tux_buy => Max: 113ms, Min: 26ms, Mean: 34ms
+Tux_query => Max: 122ms, Min: 26ms, Mean: 37ms
+Dolphin_query => Max: 89ms, Min: 26ms, Mean: 33ms
+Tiger_buy => Max: 218ms, Min: 25ms, Mean: 38ms
+Elephant_buy => Max: 241ms, Min: 26ms, Mean: 39ms
+Elephant_query => Max: 134ms, Min: 26ms, Mean: 35ms
+Dolphin_buy => Max: 147ms, Min: 25ms, Mean: 35ms
+Whale_query => Max: 632ms, Min: 26ms, Mean: 42ms
+Whale_buy => Max: 139ms, Min: 26ms, Mean: 37ms
+Overall buy => Max: 241ms, Min: 25ms, Mean: 36ms, Expected Calls: 500, Actual Calls: 505
+Overall query => Max: 632ms, Min: 26ms, Mean: 36ms, Expected Calls: 500, Actual Calls: 495

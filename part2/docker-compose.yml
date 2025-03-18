@@ -1,0 +1,31 @@
+version: '3.8'
+services:
+  catalogservice:
+    volumes:
+      - ./src/catalogservice/database.txt:/app/database.txt
+    build:
+      context: .
+      dockerfile: DockerfileCatalogService
+    ports:
+      - "12345:12345"
+
+  orderservice:
+    volumes:
+      - ./src/orderservice/order_log.csv:/app/order_log.csv
+    build:
+      context: .
+      dockerfile: DockerfileOrderService
+    ports:
+      - "12346:12346"
+    environment:
+      CATALOG_SERVICE_URL: http://catalogservice:12345
+
+  frontendservice:
+    build:
+      context: .
+      dockerfile: DockerfileFrontendService
+    ports:
+      - "12340:12340"
+    environment:
+      CATALOG_SERVICE_URL: http://catalogservice:12345
+      ORDER_SERVICE_URL: http://orderservice:12346

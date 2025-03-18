@@ -1,0 +1,5 @@
+com/toystore/client/ProductResponse.class
+com/toystore/client/Client.class
+com/toystore/client/Order.class
+com/toystore/client/OrderResponse.class
+com/toystore/client/OrderRequest.class

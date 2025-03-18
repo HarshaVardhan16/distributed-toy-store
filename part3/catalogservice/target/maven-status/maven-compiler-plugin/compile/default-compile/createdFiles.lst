@@ -1,0 +1,5 @@
+com/toystore/catalogservice/CatalogserviceApplication.class
+com/toystore/catalogservice/model/Product.class
+com/toystore/catalogservice/controller/CatalogController.class
+com/toystore/catalogservice/config/AppConfig.class
+com/toystore/catalogservice/service/InventoryService.class

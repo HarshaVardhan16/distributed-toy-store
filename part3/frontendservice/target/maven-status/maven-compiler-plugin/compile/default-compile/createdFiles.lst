@@ -1,0 +1,8 @@
+com/toystore/frontendservice/config/AppConfig.class
+com/toystore/frontendservice/model/InvalidationRequest.class
+com/toystore/frontendservice/service/OrderService.class
+com/toystore/frontendservice/LRUCache.class
+com/toystore/frontendservice/controller/FrontendController.class
+com/toystore/frontendservice/FrontendserviceApplication.class
+com/toystore/frontendservice/model/OrderRequest.class
+com/toystore/frontendservice/service/CatalogService.class

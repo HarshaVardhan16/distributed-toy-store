@@ -1,0 +1,16 @@
+Dolphin, 9.99, 62
+Whale, 19.99, 60
+Tux, 29.99, 17
+Elephant, 39.99, 72
+Fox, 49.99, 62
+Python, 4.99, 69
+Lion, 34.99, 56
+Tiger, 44.99, 57
+Bear, 24.99, 66
+Giraffe, 29.99, 71
+Zebra, 19.99, 65
+Kangaroo, 14.99, 59
+Panda, 59.99, 71
+Hippo, 39.99, 68
+Rabbit, 9.99, 64
+Owl, 12.99, 60

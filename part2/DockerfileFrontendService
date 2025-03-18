@@ -1,0 +1,11 @@
+# Use Java 11 as base image
+FROM openjdk:11-jdk
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Copy the jar file into the container
+COPY ./src/toystore/target/toystore-1.0-SNAPSHOT-jar-with-dependencies.jar /app/frontendservice.jar
+
+# Command to run the application
+CMD ["java", "-cp", "./frontendservice.jar", "toystore.src.main.java.com.toystore.FrontendService"]

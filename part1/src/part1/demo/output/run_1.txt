@@ -1,0 +1,1004 @@
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tiger is not present in the inventory
+Query Method: Buy is wrong!
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tiger is not present in the inventory
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+Query Method: Buy is wrong!
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+Query Method: Buy is wrong!
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tiger is not present in the inventory
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+Query Method: Buy is wrong!
+The item Tiger is not present in the inventory
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tiger is not present in the inventory
+Query Method: Buy is wrong!
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tiger is not present in the inventory
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Tiger is not present in the inventory
+The item Whale is in the inventory but not in stock
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+Query Method: Buy is wrong!
+The item Whale is in the inventory but not in stock
+The item Tux is present in the inventory and its price is 30.99
+The item Tux is present in the inventory and its price is 30.99
+The item Whale is in the inventory but not in stock
+Total client requests: 1000 
+Average Response Time: 792.383150 ms
+Maximum time for a Request: 1082 ms
+Minimum time for a Request: 52 ms

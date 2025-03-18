@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+package grpc;
+
+option java_multiple_files = true;
+option java_package = "grpc";
+option java_outer_classname = "ToyServiceProto";
+option objc_class_prefix = "TSS";
+
+service ToyService {
+  rpc itemQuery(ItemQueryRequest) returns (ItemQueryResponse);
+  rpc itemBuy(BuyRequest) returns (BuyResponse);
+}
+
+// The request message containing the item's name.
+message ItemQueryRequest {
+  string itemName = 1;
+}
+
+// The response message containing the item's cost and stock.
+message ItemQueryResponse {
+  double cost = 1; 
+  int32 stock = 2;
+}
+
+// The request message for buying an item.
+message BuyRequest {
+  string itemName = 1;
+}
+
+// The response message for the buy operation.
+message BuyResponse {
+  int32 result = 1; // 1 for success, 0 for out of stock, -1 for invalid item
+}
+
